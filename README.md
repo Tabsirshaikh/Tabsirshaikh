@@ -1,0 +1,240 @@
+<div align="center">
+
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,46,58&height=220&section=header&text=Shaikh%20Tabsir%20Raza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Header Banner" />
+
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://github.com/Tabsirshaikh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Production-Ready+AI+%26+Computer+Vision+Systems;Space+%26+Lunar+Orbital+Image+Registration+(ISRO+SIH);Real-Time+Edge+Inference%2C+YOLOv8%2C+ByteTrack+%26+TensorRT;Full-Stack+Engineering+with+FastAPI%2C+Next.js+%26+PyTorch;National+Hackathon+Runner-Up+%E2%80%A2+Open+Source+Builder" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/tabsir-shaikh-018077389" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:524tabsirsvjc@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Tabsirshaikh">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Tabsirshaikh?tab=repositories">
+      <img src="https://img.shields.io/badge/Portfolio%20Projects-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+name: Shaikh Tabsir Raza
+role: AI/ML Engineer & Full-Stack Technologist
+education: B.Tech in Artificial Intelligence & Data Science Engineering @ SIES GST (CGPA: 9.3 / 10)
+focus: Real-time Computer Vision, Multimodal AI Systems, High-Throughput Microservices
+status: Architecting intelligent pipelines from research papers into production code
+hackathons: 2x National Level Runner-up (Samved Solapur, Cogniton 2025)
+philosophy: "Measure everything, optimize bottlenecks, build for real-world impact."
+```
+
+* 🔭 **What I'm building:** Scalable AI applications — from satellite orbital image registration to real-time CCTV edge inference pipelines.
+* 🛰️ **Space Tech:** Authored **ChandrAlign** for **ISRO SIH 2026**, achieving sub-pixel lunar image registration across extreme 290× resolution gaps and harsh sun angle variations.
+* 🎯 **Computer Vision & Edge AI:** Custom YOLOv8 training on 13,000+ images, RTSP stream parsing with OpenCV + TensorRT, and ByteTrack multi-object tracking.
+* ⚡ **Full-Stack & Systems:** High-performance REST & WebSocket microservices using FastAPI, Redis pub/sub, Next.js, and PostgreSQL.
+* 💬 **Ask me about:** PyTorch, OpenCV, TensorRT, FastAPI, Multimodal AI, RAG Pipelines, and Image Registration.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+<div align="center">
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Artificial Intelligence & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0072B2?style=flat-square&logo=google&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Backend & Microservices** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AWS S3 / Lambda](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+| **DevOps, Tools & Data** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Featured Engineering Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ ChandrAlign (chandrayana2)</h3>
+      <p align="center">
+        <b>Sub-Pixel Lunar Image Registration for Chandrayaan-2 (ISRO SIH 2026)</b>
+      </p>
+      <ul>
+        <li>Registers <b>OHRC</b>, <b>TMC-2</b>, and <b>IIRS</b> images onto <b>NASA LRO</b> and <b>JAXA SELENE</b> references with sub-pixel precision.</li>
+        <li>Survives extreme illumination shifts (raw brightness inversion of <code>-0.96</code>) and 290× scale disparity.</li>
+        <li>Integrates eLoFTR/XoFTR, MAGSAC++, DEM terrain filtering, 5 control gates, FastAPI backend & interactive Aerospace Web UI.</li>
+        <li><b>869 passing tests</b> and 100% sabotage detection rate (90/90 caught).</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/chandrayana2">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛣️ SafeStreets</h3>
+      <p align="center">
+        <b>AI-Powered Road Damage Monitoring & Analytics Platform</b>
+      </p>
+      <ul>
+        <li>Real-time automated pothole, waterlogging, and road hazard detection from dashcam streams using <b>YOLOv8 + TensorRT</b>.</li>
+        <li>Employs <b>ByteTrack</b> for multi-object tracking, duplicate event elimination, and automated municipal ticket creation.</li>
+        <li>Predictive road risk forecasting via <b>DBSCAN</b> spatial clustering, Poisson forecasting, and Gemini AI accountability summaries.</li>
+        <li>🏆 <b>Runner-up — National Level Hackathon (Samved Solapur)</b>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/safestreet">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📢 AwaazIQ (ComplainBox)</h3>
+      <p align="center">
+        <b>Multilingual Rural Complaint Prioritization & Evidence Fusion</b>
+      </p>
+      <ul>
+        <li>Multilingual voice & text grievance ingestion in Hindi, Marathi, and English using <b>Faster-Whisper</b> across 1,000+ villages.</li>
+        <li>Mathematical <b>9-term transparent priority scoring engine</b> cross-corroborating official datasets (PMGSY, UDISE+, JJM).</li>
+        <li>Multi-layer fraud defense: Moiré FFT frequency analysis (anti-screen recapture), perceptual image hashing, and YOLOv8 defect models.</li>
+        <li>Full-stack deployment with FastAPI, Supabase, and Next.js.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/AwaazIQ">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 ClearVault</h3>
+      <p align="center">
+        <b>Dual-Interface Enterprise Data Sanitization & Wipe Suite</b>
+      </p>
+      <ul>
+        <li>Web & CLI data sanitization suite implementing cryptographic and pattern overwrite wiping protocols.</li>
+        <li>Full compliance with <b>NIST SP 800-88 Rev. 1</b>, <b>DoD 5220.22-M (3-Pass)</b>, and the <b>Gutmann Method (35-Pass)</b>.</li>
+        <li>Hardware disk sector level validation with forensic audit certificate export.</li>
+        <li>🏆 <b>Runner-up — Cogniton 2025</b>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/ClearVault">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤟 SignBridge</h3>
+      <p align="center">
+        <b>Bidirectional AI-Powered Sign Language Translation System</b>
+      </p>
+      <ul>
+        <li>Real-time sign language interpreter leveraging <b>MediaPipe Holistic</b> and a custom Transformer trained on Google PopSign ASL (250 signs).</li>
+        <li>Bidirectional pipeline: Sign-to-Text via webcam landmark recognition and Text-to-Sign with animated 3D skeleton rendering.</li>
+        <li>Integrated with Gemini AI for natural grammatical restructuring and Text-to-Speech synthesis.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ SafeGuardAI & Credify</h3>
+      <p align="center">
+        <b>Multimodal AI Safety Governor & Explainable Fact-Checking</b>
+      </p>
+      <ul>
+        <li><b>SafeGuardAI</b>: 4-layer safety architecture filtering dangerous medical misinformation with evidence grounding across 40+ medical journals.</li>
+        <li><b>Credify</b>: Real-time multimodal verification pipeline for text, image, audio, and deepfake video with transparent confidence attribution.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/SafeGuardAI">
+          <img src="https://img.shields.io/badge/SafeGuardAI-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Tabsirshaikh/Credify">
+          <img src="https://img.shields.io/badge/Credify-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Honors & Recognition
+
+- 🥈 **Runner-Up** — *National Level Hackathon, Samved Solapur* (Team Project: SafeStreets)
+- 🥈 **Runner-Up** — *Cogniton 2025* (Project: ClearVault)
+- 🎖️ **Top 10 Finalist** — *National Level Hackathon, Techsprint*
+- 🎓 **Academic Excellence** — *B.Tech Artificial Intelligence & Data Science Engineering* (CGPA: 9.3/10, Semester IV SGPA: 9.9/10)
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Tabsirshaikh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Tabsir's GitHub Stats" height="175" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=Tabsirshaikh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" height="175" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabsirshaikh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="380" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+  I am always open to discussing new opportunities, open-source AI projects, computer vision research, and technical collaborations.
+
+  <br/>
+
+  <a href="https://linkedin.com/in/tabsir-shaikh-018077389" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:524tabsirsvjc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Tabsirshaikh">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Bottom Wave Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,35,46,58&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
