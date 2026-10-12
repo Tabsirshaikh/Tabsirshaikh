@@ -180,6 +180,41 @@ philosophy: "Measure everything, optimize bottlenecks, build for real-world impa
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Auto Rotate Tracker</h3>
+      <p align="center">
+        <b>AI-Powered Face-Tracking Gimbal & Gesture-Controlled Mobile Mount</b>
+      </p>
+      <ul>
+        <li>Android (Kotlin) + Arduino/ESP32 IoT robotic gimbal automatically tracking face movements in real-time.</li>
+        <li><b>Google ML Kit Face & Pose Detection</b> with sliding-window smoothing queue (10 frames) and deadband filters.</li>
+        <li>Hands-free gesture recording control (✋ Open Palm to pause, 👍 Thumbs Up to record) via <b>CameraX</b>.</li>
+        <li>High-speed Bluetooth SPP serial command protocol communicating with servo motor swivel base.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/auto-rotate-tracker">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ IntrusionX AI</h3>
+      <p align="center">
+        <b>Explainable Network Intrusion Detection & Threat Analytics</b>
+      </p>
+      <ul>
+        <li>Network security intelligence platform classifying DoS, Probe, R2L, and U2R attacks with confidence scores.</li>
+        <li>Explainable machine learning with <b>XGBoost</b> and <b>SHAP</b> feature importance attribution.</li>
+        <li>Interactive React monitoring dashboard with Recharts threat analytics and audit logging.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/IntrusionX-AI">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
