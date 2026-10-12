@@ -156,6 +156,11 @@ philosophy: "Measure everything, optimize bottlenecks, build for real-world impa
         <li>Bidirectional pipeline: Sign-to-Text via webcam landmark recognition and Text-to-Sign with animated 3D skeleton rendering.</li>
         <li>Integrated with Gemini AI for natural grammatical restructuring and Text-to-Speech synthesis.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/Tabsirshaikh/signbridge">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💧 JalLekha (JalLekha 2.0)</h3>
