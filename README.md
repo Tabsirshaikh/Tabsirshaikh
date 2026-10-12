@@ -158,21 +158,19 @@ philosophy: "Measure everything, optimize bottlenecks, build for real-world impa
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ SafeGuardAI & Credify</h3>
+      <h3 align="center">💧 JalLekha (JalLekha 2.0)</h3>
       <p align="center">
-        <b>Multimodal AI Safety Governor & Explainable Fact-Checking</b>
+        <b>Community Water-Supply Allocation & Complaint Intelligence (PS11)</b>
       </p>
       <ul>
-        <li><b>SafeGuardAI</b>: 4-layer safety architecture filtering dangerous medical misinformation with evidence grounding across 40+ medical journals.</li>
-        <li><b>Credify</b>: Real-time multimodal verification pipeline for text, image, audio, and deepfake video with transparent confidence attribution.</li>
+        <li>Fair, explainable sharing of municipal tanker water in water-stressed urban areas (HMWSSB) built strictly on real data.</li>
+        <li>Measures water deficit independently of complaints using Census 2011 access data, Open Buildings growth, and groundwater/weather metrics.</li>
+        <li>Algorithmic multi-tier allocation engine balancing historical water debt, service equity, and outage surge response.</li>
+        <li>Tamper-evident audit ledger with explainable decision receipts and citizen contestability.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Tabsirshaikh/SafeGuardAI">
-          <img src="https://img.shields.io/badge/SafeGuardAI-181717?style=flat-square&logo=github" alt="Repo" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/Tabsirshaikh/Credify">
-          <img src="https://img.shields.io/badge/Credify-181717?style=flat-square&logo=github" alt="Repo" />
+        <a href="https://github.com/Tabsirshaikh/jallekha">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
         </a>
       </p>
     </td>
