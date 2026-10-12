@@ -128,18 +128,18 @@ philosophy: "Measure everything, optimize bottlenecks, build for real-world impa
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔒 ClearVault</h3>
+      <h3 align="center">⚡ GridTwin</h3>
       <p align="center">
-        <b>Dual-Interface Enterprise Data Sanitization & Wipe Suite</b>
+        <b>Day-Ahead Distribution Grid Digital Twin for Solar Streets</b>
       </p>
       <ul>
-        <li>Web & CLI data sanitization suite implementing cryptographic and pattern overwrite wiping protocols.</li>
-        <li>Full compliance with <b>NIST SP 800-88 Rev. 1</b>, <b>DoD 5220.22-M (3-Pass)</b>, and the <b>Gutmann Method (35-Pass)</b>.</li>
-        <li>Hardware disk sector level validation with forensic audit certificate export.</li>
-        <li>🏆 <b>Runner-up — Cogniton 2025</b>.</li>
+        <li>Physics-calibrated digital twin for low-voltage grids (<b>PM Surya Ghar</b>), forecasting and resolving reverse-power voltage spikes (&gt;253V) and line overloads.</li>
+        <li><b>LightGBM Quantile Regression</b> (P10/P50/P90) solar generation & demand forecasting with uncertainty calibration against day-ahead weather & ERA5 reanalysis.</li>
+        <li>Rigorous <b>Newton-Raphson AC power-flow engine (pandapower)</b> solving 96 quarter-hour steps in ~0.03s across balanced and 3-phase unbalanced circuits.</li>
+        <li>🏆 <b>HackMatrix 5.0 (Energy Track — ENR-02)</b>: Verified action tournament boosting hosting capacity from <b>30 kW to 297 kW with 0 kWh solar wasted</b>.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Tabsirshaikh/ClearVault">
+        <a href="https://github.com/Tabsirshaikh/GridTwin">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
         </a>
       </p>
